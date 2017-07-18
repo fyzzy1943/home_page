@@ -4,6 +4,8 @@
 
 如果需要什么新功能可以留Issue，我会努力添加。
 
+---
+
 It is necessary to have a power home page if there are many projects at localhost.
 
 If you have some idea, issue please, I will try to add.
